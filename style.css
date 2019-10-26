@@ -1,1 +1,4 @@
-p { background-color: red; }
+* { color: brown; }
+h1 { color: blue; }
+ul.personlist li { color: purple; }
+#continue { color: red; }
